@@ -1,0 +1,16 @@
+{
+    "name": "testing/p1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SC"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "files":[
+            "src/Operations.php",
+            "tests/unit/SumTest.php"
+        ]
+    }
+}
